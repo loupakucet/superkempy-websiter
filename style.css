@@ -1,3 +1,16 @@
-p {
-  color: blue;
+#main_heading {
+  font-size: 2em;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+#subheading {
+  font-size: 1em;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  text-align: center;
+  vertical-align: center;
+  width: 80%;
 }
